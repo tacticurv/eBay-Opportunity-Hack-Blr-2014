@@ -2,7 +2,8 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:orientation="vertical"
-    android:padding="30dp">
+    android:padding="30dp"
+    android:background="@drawable/homescreen">
 
     <Button
         android:id="@+id/request"
@@ -11,7 +12,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="@string/request"
-        android:layout_margin="20dp"
+        android:layout_marginTop="250dp"
         android:onClick="openRequestActivity" />
 
     <Button
@@ -20,7 +21,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/donate"
-		android:layout_margin="20dp" 
+		android:layout_marginTop="5dp" 
 		android:onClick="openDonateActivity" />
 
 </LinearLayout>
