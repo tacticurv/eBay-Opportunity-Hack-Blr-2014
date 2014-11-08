@@ -31,6 +31,8 @@
             android:label="@string/title_activity_subscribe" >
         </activity>
         <activity android:name="com.sevaikarangal.blooddonationapp.EmergencyCase" />
+        <activity android:name="com.sevaikarangal.blooddonationapp.RequestActivity2" />
+        <activity android:name="com.sevaikarangal.blooddonationapp.DonorList" />
     </application>
 
 </manifest>

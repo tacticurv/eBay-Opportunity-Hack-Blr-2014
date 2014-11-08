@@ -91,6 +91,13 @@ new RequestInfo(spinner.getSelectedItem().toString(),mEdit1.getText().toString()
 		,mEdit4.getText().toString(),mEdit5.getText().toString(),mEdit6.getText().toString(),
 		mEdit7.getText().toString(),mEdit8.getText().toString());
 				
+
+// SEND teh request object to the server and call the API 
+
+			Intent reqobj = new Intent(RequestActivity.this, RequestActivity2.class);
+			startActivity(reqobj);
+
+
 				/*Intent intent1 = new Intent(LocationUpdateDemoActivity.this,HttpPostDemo.class);
 				intent1.putExtra(name, str);
 				intent1.putExtra(loc, loc);
@@ -141,6 +148,8 @@ Toast.makeText(getApplicationContext(), (String)mEdit1.getText().toString(),
 			}				
 			});
 		    
+        
+        	
         
         
 	}
