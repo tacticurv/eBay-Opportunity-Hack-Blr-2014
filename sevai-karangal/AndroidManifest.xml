@@ -33,6 +33,10 @@
         <activity android:name="com.sevaikarangal.blooddonationapp.EmergencyCase" />
         <activity android:name="com.sevaikarangal.blooddonationapp.RequestActivity2" />
         <activity android:name="com.sevaikarangal.blooddonationapp.DonorList" />
+        <activity
+            android:name="com.sevaikarangal.blooddonationapp.DonorItemActivity"
+            android:label="@string/title_activity_donor_item" >
+        </activity>
     </application>
 
 </manifest>
