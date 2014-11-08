@@ -1,25 +1,26 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:padding="30dp">
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/request"
         style="?android:attr/buttonStyleSmall"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:paddingLeft="20dp"
-        android:paddingRight="20dp"
-        android:text="@string/request" />
+        android:text="@string/request"
+        android:layout_margin="20dp"
+        android:onClick="openRequestActivity" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/donate"
         style="?android:attr/buttonStyleSmall"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:paddingLeft="20dp"
-        android:paddingRight="20dp"
-        android:text="@string/donate" />
-    
+        android:text="@string/donate"
+		android:layout_margin="20dp" 
+		android:onClick="openDonateActivity" />
+
 </LinearLayout>

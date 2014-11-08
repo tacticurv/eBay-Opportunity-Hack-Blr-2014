@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.sevaikarangal.blooddonationapp.RequestActivity"
+            android:label="@string/title_activity_request" >
+        </activity>
+        <activity
+            android:name="com.sevaikarangal.blooddonationapp.SubscribeActivity"
+            android:label="@string/title_activity_subscribe" >
+        </activity>
     </application>
 
 </manifest>
