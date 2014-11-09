@@ -777,4 +777,3 @@ $(document).delegate('#button-payment-method', 'click', function() {
     }); 
 });
 //--></script> 
-<?php echo $footer; ?>

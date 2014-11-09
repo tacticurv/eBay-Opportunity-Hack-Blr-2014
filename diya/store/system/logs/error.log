@@ -300,3 +300,12 @@
 2014-11-09 3:13:41 - PHP Notice:  Undefined variable: output in C:\xampp\htdocs\diya\store\system\library\response.php on line 21
 2014-11-09 5:03:11 - PHP Notice:  Undefined variable: class in C:\xampp\htdocs\diya\store\catalog\view\theme\default\template\product\category.tpl on line 9
 2014-11-09 5:08:30 - PHP Notice:  Undefined variable: class in C:\xampp\htdocs\diya\store\catalog\view\theme\default\template\product\category.tpl on line 10
+2014-11-09 7:41:24 - PHP Notice:  Undefined variable: button_save in C:\xampp\htdocs\diya\store\admin\view\template\payment\pp_express.tpl on line 6
+2014-11-09 7:41:24 - PHP Notice:  Undefined variable: button_cancel in C:\xampp\htdocs\diya\store\admin\view\template\payment\pp_express.tpl on line 7
+2014-11-09 7:41:24 - PHP Notice:  Undefined variable: button_search in C:\xampp\htdocs\diya\store\admin\view\template\payment\pp_express.tpl on line 7
+2014-11-09 7:41:24 - PHP Notice:  Undefined variable: placeholder in C:\xampp\htdocs\diya\store\admin\view\template\payment\pp_express.tpl on line 345
+2014-11-09 7:51:01 - PHP Notice:  Undefined variable: button_save in C:\xampp\htdocs\diya\store\admin\view\template\payment\pp_express.tpl on line 6
+2014-11-09 7:51:01 - PHP Notice:  Undefined variable: button_cancel in C:\xampp\htdocs\diya\store\admin\view\template\payment\pp_express.tpl on line 7
+2014-11-09 7:51:01 - PHP Notice:  Undefined variable: button_search in C:\xampp\htdocs\diya\store\admin\view\template\payment\pp_express.tpl on line 7
+2014-11-09 7:51:01 - PHP Notice:  Undefined variable: placeholder in C:\xampp\htdocs\diya\store\admin\view\template\payment\pp_express.tpl on line 345
+2014-11-09 8:11:20 - PHP Notice:  Undefined variable: text_edit in C:\xampp\htdocs\diya\store\admin\view\template\setting\setting.tpl on line 29
